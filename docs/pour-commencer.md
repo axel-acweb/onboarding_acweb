@@ -5,6 +5,10 @@
 
 </aside>
 
+# Accès GitHub
+
+Nous avons besoin de votre compte GitHub pour pouvoir vous ajouter aux différents repositories du projet ACWeb. Veuillez-donc nous fournir votre nom d'utilisateur GitHub via Mail ou Mattermost une fois installé.
+
 # Applications Tierces
 
 ## Mattermost
