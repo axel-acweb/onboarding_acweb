@@ -13,10 +13,10 @@ L'onboarding est le processus d'intégration d'un nouvel employé dans une entre
 
 ---
 
-[Informations d’entreprise](Onboarding%20ACWEB%207c0e670cd3f74560a42a9d056bf3a6c5/Informations%20d%E2%80%99entreprise%20cd560de1e03f4533a884e836003704d4.md)
+[Informations d’entreprise](files/informations-entreprise.md)
 
-[Pour commencer](Onboarding%20ACWEB%207c0e670cd3f74560a42a9d056bf3a6c5/Pour%20commencer%20ca73d9e4bd804436aeaec12765f1889b.md)
+[Pour commencer](files/pour-commencer.md)
 
-[Bonnes pratiques de développement ](Onboarding%20ACWEB%207c0e670cd3f74560a42a9d056bf3a6c5/Bonnes%20pratiques%20de%20de%CC%81veloppement%203004cc10045c459295a642bd6080e581.md)
+[Bonnes pratiques de développement ](files/bonnes-pratiques-de-developement.md)
 
 ---
