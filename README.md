@@ -1,9 +1,6 @@
 # Onboarding ACWEB
 
-<aside>
-💡 **Introduction :** Merci de bien suivre les étapes de cet Onboarding, celui-ci vous permettra de suivre au mieux le projet sûr lequel vous travaillez. Ce Wiki est très accessible et ne vous prendra pas plus de 20 minutes.
-
-</aside>
+💡 **Introduction** Merci de bien suivre les étapes de cet Onboarding, celui-ci vous permettra de suivre au mieux le projet sûr lequel vous travaillez. Ce Wiki est très accessible et ne vous prendra pas plus de 20 minutes.
 
 > 👋 **Bienvenue dans l’équipe Technique d’ACWeb!** Notre mission est de concevoir, développer et maintenir les solutions web de nos clients.
 > 
