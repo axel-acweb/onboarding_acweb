@@ -13,10 +13,10 @@ L'onboarding est le processus d'intégration d'un nouvel employé dans une entre
 
 ---
 
-[Informations d’entreprise](files/informations-entreprise.md)
+[Informations d’entreprise](docs/informations-entreprise.md)
 
-[Pour commencer](files/pour-commencer.md)
+[Pour commencer](docs/pour-commencer.md)
 
-[Bonnes pratiques de développement ](files/bonnes-pratiques-de-developement.md)
+[Bonnes pratiques de développement ](docs/bonnes-pratiques-de-developement.md)
 
 ---
